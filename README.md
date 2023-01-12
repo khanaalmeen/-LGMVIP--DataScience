@@ -1,5 +1,5 @@
 # -LGMVIP--DataScience
-## Exploratory-Data-Analysis---Terrorism
+## Exploratory-Data-Analysis--- GlobalTerrorism
 (Level - Intermediate)
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
