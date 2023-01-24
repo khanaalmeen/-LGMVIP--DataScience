@@ -1,5 +1,5 @@
 # -LGMVIP--DataScience
-## Exploratory-Data-Analysis--- GlobalTerrorism
+## 1. Exploratory-Data-Analysis--- GlobalTerrorism
 (Level - Intermediate)
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
@@ -14,7 +14,7 @@
 
 #### Dataset Link - https://bit.ly/2TK5Xn5
 
-## Image to Pencil Sketch With Python
+## 2. Image to Pencil Sketch With Python
 (Level - Beginner)
 
 ● We need to read the image in RGB format and convert it into grayscale image.
@@ -25,3 +25,9 @@
 
 ● Finally we will create a pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by inverted blurry image.
 
+## 3. Iris flower classification ML project :
+
+
+This particular ML project is usually referred to as the “Hello World” of Machine Learning. The iris flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities.
+
+Dataset link :http://archive.ics.uci.edu/ml/machine-learning-databases/iris
